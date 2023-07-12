@@ -12,7 +12,7 @@ h1,p,a{
     width:100%;
 }
 .logo{
-    margin-left: 1vw;
+    margin-left: 12.5vw;
 }
 .map2{
     display: none;
@@ -31,6 +31,11 @@ h1,p,a{
     display: none;
 
 }
+
+.contacts{
+    margin-left: 10%;
+
+}
 .imgPartners{
     width: 365px;
     display: grid;
@@ -42,8 +47,8 @@ h1,p,a{
     width: 49%;
     display: flex;
     align-items: center;
-    margin-left:  37.5vw;
     margin-top: -130px;
+    margin-left: 38vw;
 }
 .contacts img{
     width: 21px;
