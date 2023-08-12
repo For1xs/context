@@ -1353,12 +1353,12 @@ footer p{
     grid-template-columns: 1fr 1fr;
     align-items: center;
     width: 1300px;
-    margin-left: 14%;
+    margin-left: 11%;
     
 }
 .informationCallAgent img{
     width: 70%;
-    margin-left: -15%;
+    margin-left: -12%;
     border-radius: 15px;
 
 }
