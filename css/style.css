@@ -1175,6 +1175,7 @@ footer p{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin-left: 7%;
     
 }
 .tagline1Page5{
@@ -1253,6 +1254,7 @@ footer p{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin-left: 7%;
 }
 .sectionTagline3Page5{
     width: 1300px;
@@ -1316,6 +1318,7 @@ footer p{
     display: flex;
     flex-wrap: wrap;
     justify-content: center !important;
+    margin-left: 7%;
 }
 
 .sectionTagline4Page5{
@@ -1495,6 +1498,7 @@ footer p{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin-left: 7%;
 }
 .reviews1{
     display: grid;
